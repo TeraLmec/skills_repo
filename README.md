@@ -6,6 +6,7 @@ Reusable agent skills. Install the entire directory of a skill, including its re
 | --- | --- |
 | [clean-code-python](clean-code-python/SKILL.md) | Apply the Python adaptation of Clean Code whenever writing, editing, auditing, refactoring, or reviewing Python code or a Python project. |
 | [french-docstring](french-docstring/SKILL.md) | Understand code, audit existing declaration documentation, and add or update IDE-readable documentation in French. |
+| [impeccable](impeccable/SKILL.md) | Design, review, and improve frontend interfaces across visual design, UX, accessibility, responsive behaviour, motion, and implementation quality. |
 
 ## Installation
 
