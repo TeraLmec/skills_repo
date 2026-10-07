@@ -1,0 +1,6 @@
+interface:
+  display_name: "Clean Code Python"
+  short_description: "Clean Code for every Python writing or review task"
+
+policy:
+  allow_implicit_invocation: true
